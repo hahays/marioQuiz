@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marioQuiz/static/css/main.be9da246.css",
+    "main.js": "/marioQuiz/static/js/main.63e6a429.js",
+    "index.html": "/marioQuiz/index.html",
+    "main.be9da246.css.map": "/marioQuiz/static/css/main.be9da246.css.map",
+    "main.63e6a429.js.map": "/marioQuiz/static/js/main.63e6a429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be9da246.css",
+    "static/js/main.63e6a429.js"
+  ]
+}
