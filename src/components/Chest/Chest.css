@@ -1,0 +1,20 @@
+.chest {
+  width: 100px;
+  height: 100px;
+  /* padding-bottom: 30px; */
+  image-rendering: pixelated;
+  /* margin-right: 225px; */
+  opacity: 0.1;
+}
+.chestResult {
+  margin-right: 300px;
+  opacity: 1;
+  width: 100px;
+  height: 100px;
+}
+
+.chestStart {
+  opacity: 1;
+  width: 100px;
+  height: 100px;
+}

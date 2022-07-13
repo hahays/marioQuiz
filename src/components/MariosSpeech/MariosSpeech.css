@@ -1,0 +1,15 @@
+.nes-balloon.is-dark.from-left::after,
+.nes-balloon.is-dark.from-right::after {
+  margin-left: 200px;
+}
+.nes-balloon.is-dark.from-left::before,
+.nes-balloon.is-dark.from-right::before {
+  margin-left: 2;
+  margin-left: 200px;
+}
+
+.speechStart {
+  width: 406px;
+  height: 100px;
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+.result-screen {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 200px;
+  align-items: center;
+  margin: 20px 0px;
+  display: grid;
+  margin: 50px auto 20px;
+  max-width: 1000px;
+  min-height: 550px;
+  width: 100%;
+  flex-direction: column;
+  text-align: center;
+}
+
+.nes-container > :last-child {
+  margin-bottom: 10px;
+}
+
+.join-screen h2 {
+  font-size: 25px;
+  color: #111;
+}
+
+.join-screen p {
+  max-width: 350px;
+}
+
+.numberColor {
+  color: greenyellow;
+}

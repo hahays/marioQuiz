@@ -1,0 +1,30 @@
+.join-screen {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 200px;
+  align-items: center;
+  margin: 20px 0px;
+  display: flex;
+  margin: 50px auto 20px;
+  gap: 40px;
+  max-width: 1000px;
+  min-height: 550px;
+  width: 100%;
+  flex-direction: column;
+}
+
+.join-screen h2 {
+  font-size: 25px;
+  color: #111;
+}
+
+.join-screen p {
+  max-width: 350px;
+}
+
+.result-screen .nes-container .is-rounded .is-dark {
+  border-image-repeat: inherit;
+  border-image-source: none;
+  border-color: #212529;
+}

@@ -1,0 +1,32 @@
+.icons {
+  margin-bottom: 10px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 73px;
+  margin-bottom: 44px;
+}
+
+.navbar {
+  /* display: flex; */
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  border-color: #212529;
+}
+
+.message {
+  display: inline-flex;
+  gap: 10px;
+  /* margin-right: 190px; */
+}
+
+.windowText {
+  height: 62px;
+  width: 424px;
+}

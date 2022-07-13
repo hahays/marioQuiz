@@ -1,0 +1,10 @@
+.quiz-container {
+  position: relative;
+  display: flex;
+  margin: 10px auto 10px;
+  max-width: 1400px;
+  min-height: 550px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
